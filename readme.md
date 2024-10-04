@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kamal</h1>
 <h3 align="center">A frontend developer from 🇷🇺.</h3>
-<h1 align="center">Hi, I'm Kamal</h1>
+
 <h3 align="left">Languages:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev)
