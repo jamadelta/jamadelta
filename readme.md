@@ -9,7 +9,7 @@
 
 <h3 align="left">Frameworks and libraries:</h3>
 
-[![My Languages](https://skillicons.dev/icons?i=django,discordjs,express,fastapi,flask,nextjs,react,spring,sequelize,vue)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
