@@ -13,4 +13,4 @@
 
 <h3 align="left">Tools:</h3>
 
-[![My Languages](https://skillicons.dev/icons?i=docker,git,github,grafana,nginx,npm,pnpm,yarn)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
