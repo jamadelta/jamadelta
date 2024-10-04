@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Languages](https://skillicons.dev/icons?i=python,js,ts,go,java,cpp)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=,js)](https://skillicons.dev)
 
 <h3 align="left">Frameworks and libraries:</h3>
 
