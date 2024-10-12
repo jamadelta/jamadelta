@@ -7,7 +7,7 @@
 
 <h3 align="left">Frameworks and libraries:</h3>
 
-[![My Languages](https://skillicons.dev/icons?i=react,bootstrap,vue,jquery,sass)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=react,bootstrap,vue,jquery,sass,typescript)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
